@@ -1,5 +1,6 @@
-## Hi there 👋
 
+# Hi, I'm Lokesh 👋
+AI/ML Engineer focused on building production-grade Generative AI systems.
 <!--
 **lokeshponnekanti2612/lokeshponnekanti2612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
