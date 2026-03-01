@@ -17,25 +17,12 @@ AI/ML Engineer • Generative AI Systems • RAG Architect • MLOps
 <!-- ============================ SOCIAL BADGES ============================ -->
 
 <p align="center">
-  <a href="https://github.com/lokeshponnekanti2612" 
-     style="padding:8px 16px; border:1px solid #30363d; border-radius:6px; text-decoration:none; margin:4px; display:inline-block;">
-     GitHub
-  </a>
+  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lokeshponnekanti2612)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lokeshponnekanti2612.github.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" 
-     style="padding:8px 16px; border:1px solid #30363d; border-radius:6px; text-decoration:none; margin:4px; display:inline-block;">
-     LinkedIn
-  </a>
-
-  <a href="https://lokeshponnekanti2612.github.io" 
-     style="padding:8px 16px; border:1px solid #30363d; border-radius:6px; text-decoration:none; margin:4px; display:inline-block;">
-     Portfolio
-  </a>
-
-  <a href="mailto:your.email@example.com" 
-     style="padding:8px 16px; border:1px solid #30363d; border-radius:6px; text-decoration:none; margin:4px; display:inline-block;">
-     Email
-  </a>
 </p>
 
 # 🧠 About Me
