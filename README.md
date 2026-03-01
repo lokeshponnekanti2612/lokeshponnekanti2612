@@ -3,7 +3,7 @@
 <h1 align="center">Lokesh Ponnekanti</h1>
 
 <h3 align="center">
-AI/ML Engineer • Generative AI Systems • RAG Architect • MLOps
+AI/ML Engineer • Generative AI Systems • RAG & LLM Engineering • MLOps
 </h3>
 
 <p align="center">
