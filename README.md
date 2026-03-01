@@ -18,19 +18,18 @@ AI/ML Engineer • Generative AI Systems • RAG Architect • MLOps
 
 <p align="center">
   <a href="https://github.com/lokeshponnekanti2612">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-lokeshponnekanti2612-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Lokesh%20Ponnekanti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://lokeshponnekanti2612.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
-
 ---
 
 # 🧠 About Me
