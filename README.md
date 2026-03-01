@@ -105,22 +105,6 @@ End-to-end ML pipeline including:
 
 ---
 
-# 📊 GitHub Performance
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lokeshponnekanti2612&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshponnekanti2612&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokeshponnekanti2612&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 🎓 Education
 
 **M.S. Computer Science**  
